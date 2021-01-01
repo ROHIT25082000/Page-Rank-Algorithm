@@ -13,5 +13,5 @@ store the file in hdfs
 run the script it will run take around 45 min to compute the pagerank 
 have patience . 
 
-You can also do this computation in memory by using Spark with python or scala that would lightening fast !
-but I have done using 2 mappers and 2 reducers . 
+You can also do this computation in memory by using Spark with python or scala that would be lightening fast !
+but I have done using 2 mappers and 2 reducers in map-reduce code. 
