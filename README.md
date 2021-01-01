@@ -7,7 +7,8 @@ Nodes: 875713 Edges: 5105039</i>
 <br>
 format of the file<br> 
 # FromNodeId    ToNodeId
-link for the data set <a href="https://www.kaggle.com/pappukrjha/google-web-graph">link to dataset</a>
+link for the data set <a href="https://www.kaggle.com/pappukrjha/google-web-graph">link to dataset</a><br>
+<br>
 Ensure you have Hadoop v2 up and running 
 store the file in hdfs 
 run the script it will run take around 45 min to compute the pagerank 
