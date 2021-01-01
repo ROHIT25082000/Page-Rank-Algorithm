@@ -1,12 +1,12 @@
 # Page-Rank-Algorithm
 # An implementation of Page-rank-algorithm using map-reduce on a very large web-graph.
 <i>
-Directed graph (each unordered pair of nodes is saved once): web-Google.txt
-Webgraph from the Google programming contest, 2002
+Directed graph (each unordered pair of nodes is saved once): web-Google.txt<br>
+Webgraph from the Google programming contest, 2002<br>
 Nodes: 875713 Edges: 5105039</i>
-
-format of the file 
-FromNodeId    ToNodeId
+<br>
+format of the file<br> 
+# FromNodeId    ToNodeId
 
 Ensure you have Hadoop v2 up and running 
 store the file in hdfs 
